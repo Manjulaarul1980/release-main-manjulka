@@ -16,7 +16,7 @@ public class DisplaySumOfNaturalGetInputFromConsol {
 			System.out.print(" " + i);
 
 		}
-		System.out.println("\n sum of n natural number is:" + sum);
+		System.out.println("\n sum of n natural number is :" + sum);
 	}
 
 }
